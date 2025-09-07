@@ -1,0 +1,2064 @@
+{
+  "genes": {
+    "INT": {
+      "index": 0,
+      "id": "id-NP_057849.4:1148..1435",
+      "name": "INT",
+      "cdses": [
+        {
+          "id": "id-NP_057849.4:1148..1435",
+          "name": "INT",
+          "product": "integrase",
+          "segments": [
+            {
+              "index": 4,
+              "id": "id-NP_057849.4:1148..1435",
+              "name": "INT",
+              "range": {
+                "begin": 3775,
+                "end": 4639
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 864
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "ID": [
+                  "id-NP_057849.4:1148..1435"
+                ],
+                "Name": [
+                  "INT"
+                ],
+                "gbkey": [
+                  "Prot"
+                ],
+                "Note": [
+                  "mediates integration of the viral DNA into the infected cell chromosome"
+                ],
+                "product": [
+                  "integrase"
+                ],
+                "experiment": [
+                  "DESCRIPTION:[PMID:7983732]",
+                  "DESCRIPTION:[PMID:8035478]"
+                ],
+                "protein_id": [
+                  "NP_705928.1"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "Note": [
+              "mediates integration of the viral DNA into the infected cell chromosome"
+            ],
+            "product": [
+              "integrase"
+            ],
+            "experiment": [
+              "DESCRIPTION:[PMID:7983732]",
+              "DESCRIPTION:[PMID:8035478]"
+            ],
+            "Name": [
+              "INT"
+            ],
+            "gbkey": [
+              "Prot"
+            ],
+            "protein_id": [
+              "NP_705928.1"
+            ],
+            "ID": [
+              "id-NP_057849.4:1148..1435"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "RT-p51": {
+      "index": 0,
+      "id": "id-NP_057849.4:588..1027",
+      "name": "RT-p51",
+      "cdses": [
+        {
+          "id": "id-NP_057849.4:588..1027",
+          "name": "RT-p51",
+          "product": "reverse transcriptase p51 subunit",
+          "segments": [
+            {
+              "index": 3,
+              "id": "id-NP_057849.4:588..1027",
+              "name": "RT-p51",
+              "range": {
+                "begin": 2095,
+                "end": 3415
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 1320
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "protein_id": [
+                  "NP_789739.1"
+                ],
+                "Note": [
+                  "HIV-1 reverse transcriptase is composed of the p66 subunit and the p51 subunit (this protein) that lacks the RNAse H domain of the larger subunit"
+                ],
+                "ID": [
+                  "id-NP_057849.4:588..1027"
+                ],
+                "gbkey": [
+                  "Prot"
+                ],
+                "product": [
+                  "reverse transcriptase p51 subunit"
+                ],
+                "Name": [
+                  "RT-p51"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "gbkey": [
+              "Prot"
+            ],
+            "product": [
+              "reverse transcriptase p51 subunit"
+            ],
+            "protein_id": [
+              "NP_789739.1"
+            ],
+            "Note": [
+              "HIV-1 reverse transcriptase is composed of the p66 subunit and the p51 subunit (this protein) that lacks the RNAse H domain of the larger subunit"
+            ],
+            "ID": [
+              "id-NP_057849.4:588..1027"
+            ],
+            "Name": [
+              "RT-p51"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "RT-p66": {
+      "index": 0,
+      "id": "id-NP_057849.4:588..1147",
+      "name": "RT-p66",
+      "cdses": [
+        {
+          "id": "id-NP_057849.4:588..1147",
+          "name": "RT-p66",
+          "product": "p66 subunit",
+          "segments": [
+            {
+              "index": 2,
+              "id": "id-NP_057849.4:588..1147",
+              "name": "RT-p66",
+              "range": {
+                "begin": 2095,
+                "end": 3775
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 1680
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "ID": [
+                  "id-NP_057849.4:588..1147"
+                ],
+                "protein_id": [
+                  "NP_705927.1"
+                ],
+                "Note": [
+                  "transcribes single stranded viral RNA genome into double stranded proviral DNA%3B HIV-1 reverse transcriptase is composed of the p66 subunit (this protein) and the p51 subunit that lacks the RNAse H domain of the larger subunit"
+                ],
+                "Name": [
+                  "RT-p66"
+                ],
+                "experiment": [
+                  "DESCRIPTION:[PMID:1374166]",
+                  "EXISTENCE:[PMID:4316300]"
+                ],
+                "product": [
+                  "p66 subunit"
+                ],
+                "gbkey": [
+                  "Prot"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "Name": [
+              "RT-p66"
+            ],
+            "Note": [
+              "transcribes single stranded viral RNA genome into double stranded proviral DNA%3B HIV-1 reverse transcriptase is composed of the p66 subunit (this protein) and the p51 subunit that lacks the RNAse H domain of the larger subunit"
+            ],
+            "ID": [
+              "id-NP_057849.4:588..1147"
+            ],
+            "product": [
+              "p66 subunit"
+            ],
+            "protein_id": [
+              "NP_705927.1"
+            ],
+            "gbkey": [
+              "Prot"
+            ],
+            "experiment": [
+              "DESCRIPTION:[PMID:1374166]",
+              "EXISTENCE:[PMID:4316300]"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "gp120": {
+      "index": 0,
+      "id": "id-NP_057856.1:29..511",
+      "name": "gp120",
+      "cdses": [
+        {
+          "id": "id-NP_057856.1:29..511",
+          "name": "gp120",
+          "product": "Envelope surface glycoprotein gp120",
+          "segments": [
+            {
+              "index": 19,
+              "id": "id-NP_057856.1:29..511",
+              "name": "gp120",
+              "range": {
+                "begin": 5854,
+                "end": 7303
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 1449
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "Name": [
+                  "gp120"
+                ],
+                "product": [
+                  "Envelope surface glycoprotein gp120"
+                ],
+                "protein_id": [
+                  "NP_579894.2"
+                ],
+                "experiment": [
+                  "DESCRIPTION:[PMID:24179160]"
+                ],
+                "ID": [
+                  "id-NP_057856.1:29..511"
+                ],
+                "gbkey": [
+                  "Prot"
+                ],
+                "Note": [
+                  "mediates binding of HIV-1 to CD4 and cellular co-receptors%3B cooperates with gp41 to mediate fusion of viral membrane with cellular membrane during virus entry into cells"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "experiment": [
+              "DESCRIPTION:[PMID:24179160]"
+            ],
+            "Name": [
+              "gp120"
+            ],
+            "Note": [
+              "mediates binding of HIV-1 to CD4 and cellular co-receptors%3B cooperates with gp41 to mediate fusion of viral membrane with cellular membrane during virus entry into cells"
+            ],
+            "protein_id": [
+              "NP_579894.2"
+            ],
+            "product": [
+              "Envelope surface glycoprotein gp120"
+            ],
+            "gbkey": [
+              "Prot"
+            ],
+            "ID": [
+              "id-NP_057856.1:29..511"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "gp41": {
+      "index": 0,
+      "id": "id-NP_057856.1:512..856",
+      "name": "gp41",
+      "cdses": [
+        {
+          "id": "id-NP_057856.1:512..856",
+          "name": "gp41",
+          "product": "Envelope transmembrane domain",
+          "segments": [
+            {
+              "index": 20,
+              "id": "id-NP_057856.1:512..856",
+              "name": "gp41",
+              "range": {
+                "begin": 7303,
+                "end": 8338
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 1035
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "protein_id": [
+                  "NP_579895.1"
+                ],
+                "ID": [
+                  "id-NP_057856.1:512..856"
+                ],
+                "gbkey": [
+                  "Prot"
+                ],
+                "Note": [
+                  "cooperates with gp120 to mediate fusion of viral membrane with cellular membrane during virus entry into cells"
+                ],
+                "Name": [
+                  "gp41"
+                ],
+                "product": [
+                  "Envelope transmembrane domain"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "Name": [
+              "gp41"
+            ],
+            "gbkey": [
+              "Prot"
+            ],
+            "ID": [
+              "id-NP_057856.1:512..856"
+            ],
+            "Note": [
+              "cooperates with gp120 to mediate fusion of viral membrane with cellular membrane during virus entry into cells"
+            ],
+            "product": [
+              "Envelope transmembrane domain"
+            ],
+            "protein_id": [
+              "NP_579895.1"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "nef": {
+      "index": 0,
+      "id": "cds-NP_057857.2",
+      "name": "nef",
+      "cdses": [
+        {
+          "id": "cds-NP_057857.2",
+          "name": "nef",
+          "product": "Nef",
+          "segments": [
+            {
+              "index": 21,
+              "id": "cds-NP_057857.2",
+              "name": "nef",
+              "range": {
+                "begin": 8342,
+                "end": 8963
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 621
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [
+                "(pos:8712..8714,aa:Trp)"
+              ],
+              "attributes": {
+                "ID": [
+                  "cds-NP_057857.2"
+                ],
+                "transl_except": [
+                  "(pos:8712..8714%2Caa:Trp)"
+                ],
+                "gene": [
+                  "nef"
+                ],
+                "protein_id": [
+                  "NP_057857.2"
+                ],
+                "gbkey": [
+                  "CDS"
+                ],
+                "Dbxref": [
+                  "GenBank:NP_057857.2",
+                  "GeneID:156110"
+                ],
+                "Name": [
+                  "nef"
+                ],
+                "locus_tag": [
+                  "HIV1gp9"
+                ],
+                "product": [
+                  "Nef"
+                ],
+                "Note": [
+                  "This particular nucleotide sequence has a premature stop codon in place of a well-conserved tryptophan codon at position 8712-8714 that truncates the HIV1 Nef protein sequence to a 123 amino acids-long N-terminal portion (not shown)."
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [
+            "(pos:8712..8714,aa:Trp)"
+          ],
+          "attributes": {
+            "transl_except": [
+              "(pos:8712..8714%2Caa:Trp)"
+            ],
+            "protein_id": [
+              "NP_057857.2"
+            ],
+            "ID": [
+              "cds-NP_057857.2"
+            ],
+            "product": [
+              "Nef"
+            ],
+            "gbkey": [
+              "CDS"
+            ],
+            "Name": [
+              "nef"
+            ],
+            "Dbxref": [
+              "GenBank:NP_057857.2",
+              "GeneID:156110"
+            ],
+            "Note": [
+              "This particular nucleotide sequence has a premature stop codon in place of a well-conserved tryptophan codon at position 8712-8714 that truncates the HIV1 Nef protein sequence to a 123 amino acids-long N-terminal portion (not shown)."
+            ],
+            "locus_tag": [
+              "HIV1gp9"
+            ],
+            "gene": [
+              "nef"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [
+        "(pos:8712..8714,aa:Trp)"
+      ],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "p1": {
+      "index": 0,
+      "id": "id-NP_057850.1:433..448",
+      "name": "p1",
+      "cdses": [
+        {
+          "id": "id-NP_057850.1:433..448",
+          "name": "p1",
+          "product": "p1",
+          "segments": [
+            {
+              "index": 9,
+              "id": "id-NP_057850.1:433..448",
+              "name": "p1",
+              "range": {
+                "begin": 1631,
+                "end": 1679
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 48
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gbkey": [
+                  "Prot"
+                ],
+                "protein_id": [
+                  "NP_787042.1"
+                ],
+                "product": [
+                  "p1"
+                ],
+                "Name": [
+                  "p1"
+                ],
+                "ID": [
+                  "id-NP_057850.1:433..448"
+                ],
+                "Note": [
+                  "important for virus infectivity%2C protein processing%2C and genomic RNA dimer stability"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "gbkey": [
+              "Prot"
+            ],
+            "product": [
+              "p1"
+            ],
+            "protein_id": [
+              "NP_787042.1"
+            ],
+            "ID": [
+              "id-NP_057850.1:433..448"
+            ],
+            "Note": [
+              "important for virus infectivity%2C protein processing%2C and genomic RNA dimer stability"
+            ],
+            "Name": [
+              "p1"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "p17": {
+      "index": 0,
+      "id": "id-NP_057850.1:1..132",
+      "name": "p17",
+      "cdses": [
+        {
+          "id": "id-NP_057850.1:1..132",
+          "name": "p17",
+          "product": "matrix",
+          "segments": [
+            {
+              "index": 5,
+              "id": "id-NP_057850.1:1..132",
+              "name": "p17",
+              "range": {
+                "begin": 335,
+                "end": 731
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 396
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "ID": [
+                  "id-NP_057850.1:1..132"
+                ],
+                "experiment": [
+                  "DESCRIPTION:[PMID:12032547]",
+                  "DESCRIPTION:[PMID:1710290]",
+                  "DESCRIPTION:[PMID:8610175]"
+                ],
+                "product": [
+                  "matrix"
+                ],
+                "Name": [
+                  "p17"
+                ],
+                "protein_id": [
+                  "NP_579876.2"
+                ],
+                "gbkey": [
+                  "Prot"
+                ],
+                "Note": [
+                  "viral structural protein%3B forms the outer structural shell of HIV-1 virions%3B involved in the nuclear import of the HIV-1 preintegration complex"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "protein_id": [
+              "NP_579876.2"
+            ],
+            "gbkey": [
+              "Prot"
+            ],
+            "Note": [
+              "viral structural protein%3B forms the outer structural shell of HIV-1 virions%3B involved in the nuclear import of the HIV-1 preintegration complex"
+            ],
+            "product": [
+              "matrix"
+            ],
+            "Name": [
+              "p17"
+            ],
+            "experiment": [
+              "DESCRIPTION:[PMID:12032547]",
+              "DESCRIPTION:[PMID:1710290]",
+              "DESCRIPTION:[PMID:8610175]"
+            ],
+            "ID": [
+              "id-NP_057850.1:1..132"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "p2": {
+      "index": 0,
+      "id": "id-NP_057850.1:364..377",
+      "name": "p2",
+      "cdses": [
+        {
+          "id": "id-NP_057850.1:364..377",
+          "name": "p2",
+          "product": "p2",
+          "segments": [
+            {
+              "index": 7,
+              "id": "id-NP_057850.1:364..377",
+              "name": "p2",
+              "range": {
+                "begin": 1424,
+                "end": 1466
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 42
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gbkey": [
+                  "Prot"
+                ],
+                "protein_id": [
+                  "NP_579882.1"
+                ],
+                "ID": [
+                  "id-NP_057850.1:364..377"
+                ],
+                "product": [
+                  "p2"
+                ],
+                "Name": [
+                  "p2"
+                ],
+                "Note": [
+                  "Processing of Gag-Pol by the protease domain dimer starts with cleavage between the p2 and nucleocapsid proteins."
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "protein_id": [
+              "NP_579882.1"
+            ],
+            "ID": [
+              "id-NP_057850.1:364..377"
+            ],
+            "Name": [
+              "p2"
+            ],
+            "gbkey": [
+              "Prot"
+            ],
+            "Note": [
+              "Processing of Gag-Pol by the protease domain dimer starts with cleavage between the p2 and nucleocapsid proteins."
+            ],
+            "product": [
+              "p2"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "p24": {
+      "index": 0,
+      "id": "id-NP_057850.1:133..363",
+      "name": "p24",
+      "cdses": [
+        {
+          "id": "id-NP_057850.1:133..363",
+          "name": "p24",
+          "product": "capsid",
+          "segments": [
+            {
+              "index": 6,
+              "id": "id-NP_057850.1:133..363",
+              "name": "p24",
+              "range": {
+                "begin": 731,
+                "end": 1424
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 693
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "Name": [
+                  "p24"
+                ],
+                "experiment": [
+                  "DESCRIPTION:[PMID:15208690]",
+                  "DESCRIPTION:[PMID:16041386]",
+                  "DESCRIPTION:[PMID:21248851]"
+                ],
+                "product": [
+                  "capsid"
+                ],
+                "Note": [
+                  "viral structural protein%3B forms the core of HIV-1 virions"
+                ],
+                "ID": [
+                  "id-NP_057850.1:133..363"
+                ],
+                "gbkey": [
+                  "Prot"
+                ],
+                "protein_id": [
+                  "NP_579880.1"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "Name": [
+              "p24"
+            ],
+            "ID": [
+              "id-NP_057850.1:133..363"
+            ],
+            "Note": [
+              "viral structural protein%3B forms the core of HIV-1 virions"
+            ],
+            "protein_id": [
+              "NP_579880.1"
+            ],
+            "product": [
+              "capsid"
+            ],
+            "experiment": [
+              "DESCRIPTION:[PMID:15208690]",
+              "DESCRIPTION:[PMID:16041386]",
+              "DESCRIPTION:[PMID:21248851]"
+            ],
+            "gbkey": [
+              "Prot"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "p6": {
+      "index": 0,
+      "id": "id-NP_057850.1:449..500",
+      "name": "p6",
+      "cdses": [
+        {
+          "id": "id-NP_057850.1:449..500",
+          "name": "p6",
+          "product": "p6",
+          "segments": [
+            {
+              "index": 10,
+              "id": "id-NP_057850.1:449..500",
+              "name": "p6",
+              "range": {
+                "begin": 1679,
+                "end": 1835
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 156
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "experiment": [
+                  "DESCRIPTION:[PMID:10085158]",
+                  "DESCRIPTION:[PMID:15527852]"
+                ],
+                "Note": [
+                  "important for incorporation of Vpr into assembling HIV-1 virions%3B helps mediate efficient virus particle release from infected cells"
+                ],
+                "Name": [
+                  "p6"
+                ],
+                "product": [
+                  "p6"
+                ],
+                "gbkey": [
+                  "Prot"
+                ],
+                "ID": [
+                  "id-NP_057850.1:449..500"
+                ],
+                "protein_id": [
+                  "NP_579883.1"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "product": [
+              "p6"
+            ],
+            "ID": [
+              "id-NP_057850.1:449..500"
+            ],
+            "experiment": [
+              "DESCRIPTION:[PMID:10085158]",
+              "DESCRIPTION:[PMID:15527852]"
+            ],
+            "Name": [
+              "p6"
+            ],
+            "gbkey": [
+              "Prot"
+            ],
+            "protein_id": [
+              "NP_579883.1"
+            ],
+            "Note": [
+              "important for incorporation of Vpr into assembling HIV-1 virions%3B helps mediate efficient virus particle release from infected cells"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "p7": {
+      "index": 0,
+      "id": "id-NP_057850.1:378..432",
+      "name": "p7",
+      "cdses": [
+        {
+          "id": "id-NP_057850.1:378..432",
+          "name": "p7",
+          "product": "nucleocapsid",
+          "segments": [
+            {
+              "index": 8,
+              "id": "id-NP_057850.1:378..432",
+              "name": "p7",
+              "range": {
+                "begin": 1466,
+                "end": 1631
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 165
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "protein_id": [
+                  "NP_579881.1"
+                ],
+                "product": [
+                  "nucleocapsid"
+                ],
+                "gbkey": [
+                  "Prot"
+                ],
+                "Name": [
+                  "p7"
+                ],
+                "Note": [
+                  "viral structural protein%3B coats the genomic RNA inside the virion core%3B binds and delivers full-length viral RNAs into assembling HIV-1 virions"
+                ],
+                "ID": [
+                  "id-NP_057850.1:378..432"
+                ],
+                "experiment": [
+                  "DESCRIPTION:[PMID:1639074]",
+                  "DESCRIPTION:[PMID:7666546]"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "protein_id": [
+              "NP_579881.1"
+            ],
+            "experiment": [
+              "DESCRIPTION:[PMID:1639074]",
+              "DESCRIPTION:[PMID:7666546]"
+            ],
+            "ID": [
+              "id-NP_057850.1:378..432"
+            ],
+            "Name": [
+              "p7"
+            ],
+            "product": [
+              "nucleocapsid"
+            ],
+            "gbkey": [
+              "Prot"
+            ],
+            "Note": [
+              "viral structural protein%3B coats the genomic RNA inside the virion core%3B binds and delivers full-length viral RNAs into assembling HIV-1 virions"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "pro": {
+      "index": 0,
+      "id": "id-NP_057849.4:489..587",
+      "name": "pro",
+      "cdses": [
+        {
+          "id": "id-NP_057849.4:489..587",
+          "name": "pro",
+          "product": "aspartic peptidase",
+          "segments": [
+            {
+              "index": 1,
+              "id": "id-NP_057849.4:489..587",
+              "name": "pro",
+              "range": {
+                "begin": 1798,
+                "end": 2095
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 297
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "Name": [
+                  "pro"
+                ],
+                "Note": [
+                  "The proteinase domain of Gag-Pol (in the form of homodimer) mediates all the cleavages in the polyprotein. Cleaves itself from the polyprotein late in particle assembly."
+                ],
+                "ID": [
+                  "id-NP_057849.4:489..587"
+                ],
+                "protein_id": [
+                  "NP_705926.1"
+                ],
+                "gbkey": [
+                  "Prot"
+                ],
+                "product": [
+                  "aspartic peptidase"
+                ],
+                "experiment": [
+                  "DESCRIPTION:[PMID:2537531]",
+                  "DESCRIPTION:[PMID:2548279]",
+                  "DESCRIPTION:[PMID:3290901]"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "gbkey": [
+              "Prot"
+            ],
+            "protein_id": [
+              "NP_705926.1"
+            ],
+            "experiment": [
+              "DESCRIPTION:[PMID:2537531]",
+              "DESCRIPTION:[PMID:2548279]",
+              "DESCRIPTION:[PMID:3290901]"
+            ],
+            "Note": [
+              "The proteinase domain of Gag-Pol (in the form of homodimer) mediates all the cleavages in the polyprotein. Cleaves itself from the polyprotein late in particle assembly."
+            ],
+            "ID": [
+              "id-NP_057849.4:489..587"
+            ],
+            "Name": [
+              "pro"
+            ],
+            "product": [
+              "aspartic peptidase"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "rev": {
+      "index": 0,
+      "id": "cds-NP_057854.1",
+      "name": "rev",
+      "cdses": [
+        {
+          "id": "cds-NP_057854.1",
+          "name": "rev",
+          "product": "Rev",
+          "segments": [
+            {
+              "index": 16,
+              "id": "cds-NP_057854.1",
+              "name": "rev",
+              "range": {
+                "begin": 5515,
+                "end": 5591
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 76
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "Name": [
+                  "rev"
+                ],
+                "gene": [
+                  "rev"
+                ],
+                "ID": [
+                  "cds-NP_057854.1"
+                ],
+                "product": [
+                  "Rev"
+                ],
+                "gbkey": [
+                  "CDS"
+                ],
+                "locus_tag": [
+                  "HIV1gp6"
+                ],
+                "Dbxref": [
+                  "GenBank:NP_057854.1",
+                  "GeneID:155908"
+                ],
+                "protein_id": [
+                  "NP_057854.1"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            },
+            {
+              "index": 17,
+              "id": "cds-NP_057854.1",
+              "name": "rev",
+              "range": {
+                "begin": 7924,
+                "end": 8199
+              },
+              "rangeLocal": {
+                "begin": 76,
+                "end": 351
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 2,
+              "exceptions": [],
+              "attributes": {
+                "product": [
+                  "Rev"
+                ],
+                "gbkey": [
+                  "CDS"
+                ],
+                "locus_tag": [
+                  "HIV1gp6"
+                ],
+                "protein_id": [
+                  "NP_057854.1"
+                ],
+                "gene": [
+                  "rev"
+                ],
+                "Name": [
+                  "rev"
+                ],
+                "Dbxref": [
+                  "GenBank:NP_057854.1",
+                  "GeneID:155908"
+                ],
+                "ID": [
+                  "cds-NP_057854.1"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "protein_id": [
+              "NP_057854.1"
+            ],
+            "gene": [
+              "rev"
+            ],
+            "Dbxref": [
+              "GenBank:NP_057854.1",
+              "GeneID:155908"
+            ],
+            "ID": [
+              "cds-NP_057854.1"
+            ],
+            "locus_tag": [
+              "HIV1gp6"
+            ],
+            "gbkey": [
+              "CDS"
+            ],
+            "product": [
+              "Rev"
+            ],
+            "Name": [
+              "rev"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "tat": {
+      "index": 0,
+      "id": "cds-NP_057853.1",
+      "name": "tat",
+      "cdses": [
+        {
+          "id": "cds-NP_057853.1",
+          "name": "tat",
+          "product": "Tat",
+          "segments": [
+            {
+              "index": 14,
+              "id": "cds-NP_057853.1",
+              "name": "tat",
+              "range": {
+                "begin": 5376,
+                "end": 5591
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 215
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 0,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "Name": [
+                  "tat"
+                ],
+                "gbkey": [
+                  "CDS"
+                ],
+                "Dbxref": [
+                  "GenBank:NP_057853.1",
+                  "GeneID:155871"
+                ],
+                "protein_id": [
+                  "NP_057853.1"
+                ],
+                "locus_tag": [
+                  "HIV1gp5"
+                ],
+                "product": [
+                  "Tat"
+                ],
+                "ID": [
+                  "cds-NP_057853.1"
+                ],
+                "Note": [
+                  "the length of Tat varies depending on virus strain or clade"
+                ],
+                "gene": [
+                  "tat"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            },
+            {
+              "index": 15,
+              "id": "cds-NP_057853.1",
+              "name": "tat",
+              "range": {
+                "begin": 7924,
+                "end": 7970
+              },
+              "rangeLocal": {
+                "begin": 215,
+                "end": 261
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 1,
+              "exceptions": [],
+              "attributes": {
+                "gene": [
+                  "tat"
+                ],
+                "Name": [
+                  "tat"
+                ],
+                "gbkey": [
+                  "CDS"
+                ],
+                "protein_id": [
+                  "NP_057853.1"
+                ],
+                "Dbxref": [
+                  "GenBank:NP_057853.1",
+                  "GeneID:155871"
+                ],
+                "Note": [
+                  "the length of Tat varies depending on virus strain or clade"
+                ],
+                "ID": [
+                  "cds-NP_057853.1"
+                ],
+                "locus_tag": [
+                  "HIV1gp5"
+                ],
+                "product": [
+                  "Tat"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "gbkey": [
+              "CDS"
+            ],
+            "Dbxref": [
+              "GenBank:NP_057853.1",
+              "GeneID:155871"
+            ],
+            "Note": [
+              "the length of Tat varies depending on virus strain or clade"
+            ],
+            "ID": [
+              "cds-NP_057853.1"
+            ],
+            "product": [
+              "Tat"
+            ],
+            "gene": [
+              "tat"
+            ],
+            "locus_tag": [
+              "HIV1gp5"
+            ],
+            "protein_id": [
+              "NP_057853.1"
+            ],
+            "Name": [
+              "tat"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "vif": {
+      "index": 0,
+      "id": "cds-NP_057851.1",
+      "name": "vif",
+      "cdses": [
+        {
+          "id": "cds-NP_057851.1",
+          "name": "vif",
+          "product": "Vif",
+          "segments": [
+            {
+              "index": 11,
+              "id": "cds-NP_057851.1",
+              "name": "vif",
+              "range": {
+                "begin": 4586,
+                "end": 5165
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 579
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "ID": [
+                  "cds-NP_057851.1"
+                ],
+                "protein_id": [
+                  "NP_057851.1"
+                ],
+                "Dbxref": [
+                  "GenBank:NP_057851.1",
+                  "GeneID:155459"
+                ],
+                "locus_tag": [
+                  "HIV1gp3"
+                ],
+                "gene": [
+                  "vif"
+                ],
+                "product": [
+                  "Vif"
+                ],
+                "gbkey": [
+                  "CDS"
+                ],
+                "Name": [
+                  "vif"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "Name": [
+              "vif"
+            ],
+            "ID": [
+              "cds-NP_057851.1"
+            ],
+            "Dbxref": [
+              "GenBank:NP_057851.1",
+              "GeneID:155459"
+            ],
+            "gbkey": [
+              "CDS"
+            ],
+            "locus_tag": [
+              "HIV1gp3"
+            ],
+            "product": [
+              "Vif"
+            ],
+            "protein_id": [
+              "NP_057851.1"
+            ],
+            "gene": [
+              "vif"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "vpr": {
+      "index": 0,
+      "id": "cds-NP_057852.2",
+      "name": "vpr",
+      "cdses": [
+        {
+          "id": "cds-NP_057852.2",
+          "name": "vpr",
+          "product": "Vpr",
+          "segments": [
+            {
+              "index": 12,
+              "id": "cds-NP_057852.2",
+              "name": "vpr",
+              "range": {
+                "begin": 5104,
+                "end": 5319
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 215
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [
+                "artificial frameshift"
+              ],
+              "attributes": {
+                "Note": [
+                  "An artificial frameshift eliminating the orf-disrupting nucleotide at position 5320 is introduced to obtain the typical HIV-1 Vpr protein sequence. For this particular HIV-1 strain%2C HXB2%2C only a short (78 amino acid long) variant of the Vpr sequence can be obtained by translation of nucleotides 5105 through 5341 without the frameshift"
+                ],
+                "gene": [
+                  "vpr"
+                ],
+                "gbkey": [
+                  "CDS"
+                ],
+                "exception": [
+                  "artificial frameshift"
+                ],
+                "protein_id": [
+                  "NP_057852.2"
+                ],
+                "product": [
+                  "Vpr"
+                ],
+                "Name": [
+                  "vpr"
+                ],
+                "Dbxref": [
+                  "GenBank:NP_057852.2",
+                  "GeneID:155807"
+                ],
+                "locus_tag": [
+                  "HIV1gp4"
+                ],
+                "ID": [
+                  "cds-NP_057852.2"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            },
+            {
+              "index": 13,
+              "id": "cds-NP_057852.2",
+              "name": "vpr",
+              "range": {
+                "begin": 5320,
+                "end": 5396
+              },
+              "rangeLocal": {
+                "begin": 215,
+                "end": 291
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 1,
+              "exceptions": [
+                "artificial frameshift"
+              ],
+              "attributes": {
+                "gbkey": [
+                  "CDS"
+                ],
+                "Name": [
+                  "vpr"
+                ],
+                "protein_id": [
+                  "NP_057852.2"
+                ],
+                "exception": [
+                  "artificial frameshift"
+                ],
+                "ID": [
+                  "cds-NP_057852.2"
+                ],
+                "product": [
+                  "Vpr"
+                ],
+                "Dbxref": [
+                  "GenBank:NP_057852.2",
+                  "GeneID:155807"
+                ],
+                "gene": [
+                  "vpr"
+                ],
+                "locus_tag": [
+                  "HIV1gp4"
+                ],
+                "Note": [
+                  "An artificial frameshift eliminating the orf-disrupting nucleotide at position 5320 is introduced to obtain the typical HIV-1 Vpr protein sequence. For this particular HIV-1 strain%2C HXB2%2C only a short (78 amino acid long) variant of the Vpr sequence can be obtained by translation of nucleotides 5105 through 5341 without the frameshift"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [
+            "artificial frameshift"
+          ],
+          "attributes": {
+            "locus_tag": [
+              "HIV1gp4"
+            ],
+            "Dbxref": [
+              "GenBank:NP_057852.2",
+              "GeneID:155807"
+            ],
+            "exception": [
+              "artificial frameshift"
+            ],
+            "Note": [
+              "An artificial frameshift eliminating the orf-disrupting nucleotide at position 5320 is introduced to obtain the typical HIV-1 Vpr protein sequence. For this particular HIV-1 strain%2C HXB2%2C only a short (78 amino acid long) variant of the Vpr sequence can be obtained by translation of nucleotides 5105 through 5341 without the frameshift"
+            ],
+            "gbkey": [
+              "CDS"
+            ],
+            "ID": [
+              "cds-NP_057852.2"
+            ],
+            "gene": [
+              "vpr"
+            ],
+            "Name": [
+              "vpr"
+            ],
+            "protein_id": [
+              "NP_057852.2"
+            ],
+            "product": [
+              "Vpr"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [
+        "artificial frameshift"
+      ],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    },
+    "vpu": {
+      "index": 0,
+      "id": "cds-NP_057855.1",
+      "name": "vpu",
+      "cdses": [
+        {
+          "id": "cds-NP_057855.1",
+          "name": "vpu",
+          "product": "Vpu",
+          "segments": [
+            {
+              "index": 18,
+              "id": "cds-NP_057855.1",
+              "name": "vpu",
+              "range": {
+                "begin": 5607,
+                "end": 5856
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 249
+              },
+              "landmark": {
+                "index": 0,
+                "id": "NC_001802.1:1..9181",
+                "name": "HIV-1",
+                "range": {
+                  "begin": 0,
+                  "end": 9181
+                },
+                "strand": "+",
+                "isCircular": false
+              },
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 0,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "product": [
+                  "Vpu"
+                ],
+                "Note": [
+                  "Vpu and gp160 are translated from different reading frames of the same bicistronic mRNA"
+                ],
+                "gene": [
+                  "vpu"
+                ],
+                "protein_id": [
+                  "NP_057855.1"
+                ],
+                "locus_tag": [
+                  "HIV1gp7"
+                ],
+                "gbkey": [
+                  "CDS"
+                ],
+                "Name": [
+                  "vpu"
+                ],
+                "ID": [
+                  "cds-NP_057855.1"
+                ],
+                "Dbxref": [
+                  "GenBank:NP_057855.1",
+                  "GeneID:155945"
+                ]
+              },
+              "compatIsGene": false,
+              "color": null
+            }
+          ],
+          "proteins": [],
+          "exceptions": [],
+          "attributes": {
+            "Name": [
+              "vpu"
+            ],
+            "Note": [
+              "Vpu and gp160 are translated from different reading frames of the same bicistronic mRNA"
+            ],
+            "locus_tag": [
+              "HIV1gp7"
+            ],
+            "product": [
+              "Vpu"
+            ],
+            "ID": [
+              "cds-NP_057855.1"
+            ],
+            "gbkey": [
+              "CDS"
+            ],
+            "Dbxref": [
+              "GenBank:NP_057855.1",
+              "GeneID:155945"
+            ],
+            "gene": [
+              "vpu"
+            ],
+            "protein_id": [
+              "NP_057855.1"
+            ]
+          },
+          "compatIsGene": false,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {},
+      "compatIsCds": true,
+      "color": null
+    }
+  }
+}
+

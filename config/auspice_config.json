@@ -1,0 +1,47 @@
+{
+  "title": "Genomics surveillance using nextclade with Panama Focus",
+  "build_url": "https://github.com/AAMCGenomics",
+  "maintainers": [
+    { "name": "Alexander A. Martinez C", "url": "https://neherlab.org" }
+  ],
+  "data_provenance": [
+    {
+      "name": "LANL"
+    }
+  ],
+  "colorings": [
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "Origin",
+      "title": "Origen",
+      "type": "categorical"
+    },      
+    {
+      "key": "date",
+      "title": "Sample Date",
+      "type": "ordinal"
+    }
+  ],
+  "filters": [
+    "country",
+    "clade_membership",
+    "Origin",
+    "LANL_subtype"
+  ],
+  "display_defaults": {
+    "color_by": "clade_membership",
+    "distance_measure": "div",
+    "branch_label": "clade"
+  },
+  "panels": ["tree","entropy"],
+  "extensions": {
+    "nextclade": {
+      "clade_node_attrs": [
+      ]
+    }
+  }
+}
