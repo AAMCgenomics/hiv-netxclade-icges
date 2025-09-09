@@ -22,7 +22,6 @@ rule download:
         exec &> >(tee {log:q})
 
         curl -fsSL --compressed {params.sequences_url:q} --output {output.sequences:q}
-        curl -fsSL --compressed {params.metadata_url:q} --output {output.metadata:q}
         """
 
 
