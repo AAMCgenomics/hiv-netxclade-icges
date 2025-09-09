@@ -5,6 +5,27 @@ genes = ["pro", "RT-p66", "RT-p51", "INT",
          "gp120", "gp41", "nef"]
 
 
+rule download:
+    """
+    Downloading sequences and metadata from data.nextstrain.org
+    """
+    output:
+        sequences="data/sequences.fasta"
+    params:
+        sequences_url="https://drive.google.com/file/d/1xK_0kTfgW_UgNIYqAnHg1eIqt7nGWC0Y/view?usp=share_link"
+    log:
+        "logs/download.txt",
+    benchmark:
+        "benchmarks/download.txt"
+    shell:
+        r"""
+        exec &> >(tee {log:q})
+
+        curl -fsSL --compressed {params.sequences_url:q} --output {output.sequences:q}
+        curl -fsSL --compressed {params.metadata_url:q} --output {output.metadata:q}
+        """
+
+
 rule assemble:
     input:
         "config/reference.fasta",
