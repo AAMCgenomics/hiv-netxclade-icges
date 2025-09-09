@@ -1,8 +1,6 @@
 
 genes = ["pro", "RT-p66", "RT-p51", "INT",
-         "p17", "p24", "p2", "p7", "p1", "p6",
-         "vif", "vpr", "tat",  "rev", "vpu",
-         "gp120", "gp41", "nef"]
+         "p24", "p2", "p7", "p1", "p6","vif"]
 
 
 
