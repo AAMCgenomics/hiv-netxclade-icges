@@ -12,7 +12,7 @@ rule download:
     output:
         sequences="data/sequences.fasta"
     params:
-        sequences_url="https://drive.google.com/file/d/1xK_0kTfgW_UgNIYqAnHg1eIqt7nGWC0Y/view?usp=share_link"
+        sequences_url="https://drive.usercontent.google.com/download?id=1xK_0kTfgW_UgNIYqAnHg1eIqt7nGWC0Y&export=download&authuser=0"
     log:
         "logs/download.txt",
     benchmark:
